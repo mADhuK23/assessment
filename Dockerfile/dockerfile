@@ -1,0 +1,5 @@
+FROM ubuntu:latest
+RUN apt-get update
+MAINTAINER madhu@gmail.com
+CMD ["echo","Image created"]
+
