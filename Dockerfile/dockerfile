@@ -1,5 +1,5 @@
 FROM ubuntu:latest
 RUN apt-get update
 MAINTAINER madhu@gmail.com
-CMD ["echo","madhu"]
+CMD ["echo","image created"]
 
